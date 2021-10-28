@@ -1,11 +1,11 @@
 ### RESTdemoGO
 
 ## RESTful API
-# Four Methods
+**Four Methods**
 GET,POST,PUT,DELETE
 
 
-##Reading Materials
+## Reading Materials
 
 
 **MVC pattern in GO**
