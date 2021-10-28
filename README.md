@@ -1,11 +1,11 @@
 ###RESTdemoGO
 
-**##RESTful API**
+##RESTful API
 #Four Methods
 #GET,POST,PUT,DELETE
 
 
-**##Reading Materials**
+##Reading Materials
 
 
 **MVC pattern in GO**
