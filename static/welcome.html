@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<title>Welcome Page</title>
+<head><link rel="stylesheet" href="static/welcome.css"></head>
+<h1>WELCOME</h1>
+<body>
+    <div class="grid-container">
+        <div>
+            
+            <button id="getallbutton">GetALlMembers</button>
+            
+        </div>
+        <div>
+            <input type="text" id="id" />
+            <button id="getbutton">GetMemberByID</button>
+            
+        </div>
+        <div><div id="allmember"></div></div>  
+        <div><div id="response"></div></div>
+       
+    </div>
+    <div class="grid-container">
+        <div>
+            <form method="POST" action="/member/post" id="post">
+                <label>ID</label>
+                <input type="text" name="id" />
+                <label>NAME</label>
+                <input type="text" name="name" />
+                <label>Favorite SportTeam</label>
+                <input type="text" name="team" />
+                <button id="postbutton">AddMember</button>
+            </form>
+           
+            
+        </div>
+        <div>
+            <input type="text" id="delete" />
+            <button id="deletebutton">DeleteButton</button>
+            
+        </div>
+        <div><div id="adding"></div></div>  
+        <div><div id="deleting"></div></div>
+       
+    </div>
+      
+        
+    <script src="static/main.js"></script>
+</body>
+</html>
