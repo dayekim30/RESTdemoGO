@@ -2,7 +2,7 @@
 
 ## RESTful API
 # Four Methods
-# GET,POST,PUT,DELETE
+GET,POST,PUT,DELETE
 
 
 ##Reading Materials
