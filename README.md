@@ -1,8 +1,8 @@
-###RESTdemoGO
+### RESTdemoGO
 
-##RESTful API
-#Four Methods
-#GET,POST,PUT,DELETE
+## RESTful API
+# Four Methods
+# GET,POST,PUT,DELETE
 
 
 ##Reading Materials
